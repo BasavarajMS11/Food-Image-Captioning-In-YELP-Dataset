@@ -83,7 +83,7 @@ In this section we attempt to generate caption for the YELP food data. There are
 ### Table 1.3: Results of Caption Generation on Yelp uncaptioned food data
 The images considered in Table 1.3 are from YELP uncaptioned food dataset. For the images considered there is no caption given in the dataset. The model is able to generate good captions for the images by effectively making use of intermediate caption and label prediction followed by NLG sentence generator for proper caption generation. The image and the caption generated have positive correlation between them.<br/>
 ![alt text](https://github.com/BasavarajMS11/Food-Image-Captioning-In-YELP-Dataset/blob/master/Images/ResultsUncapYelp.JPG?raw=true)
-<br/>
+<br/> 
 
 ### Table 1.4: Results of Caption Generation on Yelp captioned food data
 The images considered in Table 1.4 are from YELP captioned dataset. For the images considered there is caption given in the dataset. Here we aim to generate a better caption than the given that well describes the image. Since for some amount of data in the yelp for which caption is provided which is irrelevant. The model is able to generate good captions for the images by effectively making use of intermediate caption and label prediction followed by NLG sentence generator for proper caption generation. The image and the caption generated have positive correlation between them.<br/>
