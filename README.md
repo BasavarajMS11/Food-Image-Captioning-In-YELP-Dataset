@@ -55,7 +55,7 @@ Then run the code to get the desired output.
 
 ## 3.NLG
 IPYNB File: NLG_Googles_T5_for_T2T.ipynb
-### 3.1 Training;
+### 3.1 Training; 
 Trained on C4 data and fine-tuned an yummly28 dataset.
 The required caption must be present in a data frame and fed to the model for training.
 
