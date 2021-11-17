@@ -9,7 +9,7 @@ The proposed methodology for food image captioning consists of three main module
 <br/>
 ![alt text](https://github.com/BasavarajMS11/Food-Image-Captioning-In-YELP-Dataset/blob/master/Images/Methodology.JPG?raw=true)
 <br/>
-1. CNN-LSTM Caption Prediction(CLCP)
+1. CNN-LSTM Caption Prediction(CLCP) 
 2. Multi Label Classification(MLC)
 3. Natural Language Generator(NLG)
 
